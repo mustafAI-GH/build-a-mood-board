@@ -1,6 +1,6 @@
 ## 🧠 About This Project
 
 I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Build a Mood Board**. 
-I used Jsx to complete it.
+I used JSX to complete it.
 
 Next step.. ⏳
